@@ -1,0 +1,1 @@
+#Enunciado:Deseña un ordinograma que lea 2 números e calcule : 1º a suma , despois a resta, a continuación o producto e por último o cociente . Amosa o resultado de cada operación. De seguido codifica o programa correspondente
